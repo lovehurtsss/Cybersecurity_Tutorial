@@ -15,6 +15,7 @@ In accordance with the topic, goal and object of the study, the following tasks 
 4. Creating tests of game tasks aimed at testing knowledge of the topic
 5. Creation of a program capable of encryption and decryption
 6. Develop a scheme of the program
+   
 The work was written in the Visual Studio 2019 environment in the C# programming language, and the Gimp raster editor was used to work with images.
 
 
